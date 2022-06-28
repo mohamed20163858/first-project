@@ -2,18 +2,17 @@
 
 # first-project
 
-> Description the project.
+> building my first project to test understanding of github flow.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- html , css
+
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://mohamed20163858.github.io/first-project/)
 
 
 ## Getting Started
@@ -42,15 +41,10 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/mohamed20163858)
+- Twitter: [@twitterhandle](https://twitter.com/mohamed20163858)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-mohsen-685a4995/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
