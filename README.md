@@ -1,8 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# first-project
+# Hello Microverse
 
 > building my first project to test understanding of github flow.
+ this is done by creating new repo named first-project , working in a new branch called feature-1 , setuping HTML and CSS linter inside github for doing code tests , finally create 3 files index.html ,main.css and test.md and make 1 commit for each file and push all changes to github.
 
 
 ## Built With
@@ -41,9 +42,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/mohamed20163858)
-- Twitter: [@twitterhandle](https://twitter.com/mohamed20163858)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-mohsen-685a4995/)
+- GitHub: [@mohamed20163858](https://github.com/mohamed20163858)
+- Twitter: [@mohamed20163858](https://twitter.com/mohamed20163858)
+- LinkedIn: [mohamed-mohsen-685a4995](https://www.linkedin.com/in/mohamed-mohsen-685a4995/)
 
 
 ## 🤝 Contributing
